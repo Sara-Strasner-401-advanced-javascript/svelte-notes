@@ -8,4 +8,7 @@
 -[Props](./props.md)
 -[Logic](./logic.md)
 -[Async/Await](./asyncAwait.md)
+-[Events](./events.md)
+-[Bindings](./bindings.md)
+
 
